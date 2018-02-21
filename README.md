@@ -1,5 +1,4 @@
 # Tweet Classification (Naive Bayes Multinomial Implementation):
-Reference: http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
 
 ## Given:
 A training set and a test set, each containing tweets and their corresponding locations (12 Locations in total for the training set).
@@ -78,3 +77,6 @@ There are 12 cities in total. So, by pure guess work, we would have been able to
 
 Naive Bayes gives a far superior accuracy of 66%, and it keeps learning based on the usage of words by the people, without
 any application of rules
+
+
+Reference: http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
